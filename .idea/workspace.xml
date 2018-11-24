@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b22765dd-f110-427d-a3db-01fbd89dd51f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/PyLadies_presentation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PyLadies_presentation.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PyLadies_presentation_half_exercises.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PyLadies_presentation_half_exercises.ipynb" afterDir="false" />
     </list>
     <ignored path=".idea/" />
@@ -64,16 +63,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/requirements.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="186" column="21" selection-start-line="186" selection-start-column="21" selection-end-line="186" selection-end-column="21" />
+            <state relative-caret-position="-84">
+              <caret line="183" column="21" selection-start-line="183" selection-start-column="21" selection-end-line="183" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PyLadies_presentation_half_exercises.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
@@ -107,7 +106,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="2225" />
     <option name="y" value="-32" />
     <option name="width" value="2577" />
@@ -272,17 +271,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="186" column="21" selection-start-line="186" selection-start-column="21" selection-end-line="186" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PyLadies_presentation_half_exercises.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-84">
+          <caret line="183" column="21" selection-start-line="183" selection-start-column="21" selection-end-line="183" selection-end-column="21" />
         </state>
       </provider>
     </entry>
